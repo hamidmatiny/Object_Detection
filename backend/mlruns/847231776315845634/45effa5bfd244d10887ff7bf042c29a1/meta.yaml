@@ -1,0 +1,14 @@
+artifact_uri: file:///Users/hamidrezamatiny/Documents/GitHub/Object_Detection/backend/mlruns/847231776315845634/45effa5bfd244d10887ff7bf042c29a1/artifacts
+end_time: 1778286464280
+entry_point_name: ''
+experiment_id: '847231776315845634'
+lifecycle_stage: active
+run_id: 45effa5bfd244d10887ff7bf042c29a1
+run_name: loud-horse-229
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1778286461248
+status: 3
+tags: []
+user_id: hamidrezamatiny

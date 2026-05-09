@@ -1,0 +1,14 @@
+artifact_uri: file:///Users/hamidrezamatiny/Documents/GitHub/Object_Detection/backend/mlruns/982217328213108155/1637e2ea1e9b43fe98ec14ffaa77357b/artifacts
+end_time: 1778286561767
+entry_point_name: ''
+experiment_id: '982217328213108155'
+lifecycle_stage: active
+run_id: 1637e2ea1e9b43fe98ec14ffaa77357b
+run_name: bright-eel-672
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1778286561743
+status: 4
+tags: []
+user_id: hamidrezamatiny

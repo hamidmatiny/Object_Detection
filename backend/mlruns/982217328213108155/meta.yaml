@@ -1,0 +1,8 @@
+artifact_location: file:///Users/hamidrezamatiny/Documents/GitHub/Object_Detection/backend/mlruns/982217328213108155
+creation_time: 1778286509060
+experiment_id: '982217328213108155'
+last_update_time: 1778286509060
+lifecycle_stage: active
+name: object_detection
+trace_location: null
+workspace: default
