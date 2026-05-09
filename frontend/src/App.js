@@ -7,9 +7,13 @@ function App() {
   const [imageUrl, setImageUrl] = useState(null);
   const [loading, setLoading] = useState(false);
 
+  // Change this if your backend is running on different port
+  const API_URL = "http://127.0.0.1:8000";
+
   const handleFileChange = (event) => {
-    setSelectedFile(event.target.files[0]);
-    setImageUrl(URL.createObjectURL(event.target.files[0]));
+    const file = event.target.files[0];
+    setSelectedFile(file);
+    setImageUrl(URL.createObjectURL(file));
   };
 
   const handleSubmit = async (event) => {
@@ -21,13 +25,15 @@ function App() {
     formData.append('file', selectedFile);
 
     try {
-      const response = await axios.post('/detect', formData, {
+      const response = await axios.post(`${API_URL}/detect`, formData, {
         responseType: 'blob',
       });
+
       const url = URL.createObjectURL(response.data);
-      setImageUrl(url);
+      setImageUrl(url);        // Show the result image with boxes
     } catch (error) {
       console.error('Error uploading file:', error);
+      alert('Failed to connect to backend. Make sure backend is running on port 8000.');
     } finally {
       setLoading(false);
     }
@@ -46,9 +52,11 @@ function App() {
             {loading ? 'Detecting...' : 'Detect Objects'}
           </button>
         </form>
+
         {imageUrl && (
-          <div className="image-container">
-            <img src={imageUrl} alt="Detected objects" />
+          <div className="image-container" style={{ marginTop: '20px' }}>
+            <h3>Result:</h3>
+            <img src={imageUrl} alt="Detected objects" style={{ maxWidth: '100%', border: '2px solid #333' }} />
           </div>
         )}
       </main>

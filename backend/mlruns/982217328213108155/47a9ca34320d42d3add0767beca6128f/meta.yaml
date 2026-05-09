@@ -1,0 +1,14 @@
+artifact_uri: file:///Users/hamidrezamatiny/Documents/GitHub/Object_Detection/backend/mlruns/982217328213108155/47a9ca34320d42d3add0767beca6128f/artifacts
+end_time: 1778290997479
+entry_point_name: ''
+experiment_id: '982217328213108155'
+lifecycle_stage: active
+run_id: 47a9ca34320d42d3add0767beca6128f
+run_name: efficient-shrimp-780
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1778290997448
+status: 4
+tags: []
+user_id: hamidrezamatiny

@@ -1,0 +1,14 @@
+artifact_uri: file:///Users/hamidrezamatiny/Documents/GitHub/Object_Detection/backend/mlruns/982217328213108155/535f619aaf1045f3b24289391509e746/artifacts
+end_time: 1778291514151
+entry_point_name: ''
+experiment_id: '982217328213108155'
+lifecycle_stage: active
+run_id: 535f619aaf1045f3b24289391509e746
+run_name: peaceful-jay-47
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1778291514143
+status: 3
+tags: []
+user_id: hamidrezamatiny

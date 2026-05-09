@@ -1,0 +1,14 @@
+artifact_uri: file:///Users/hamidrezamatiny/Documents/GitHub/Object_Detection/backend/mlruns/982217328213108155/5e1ef44e523e4760a5bb245d327b5369/artifacts
+end_time: 1778291523160
+entry_point_name: ''
+experiment_id: '982217328213108155'
+lifecycle_stage: active
+run_id: 5e1ef44e523e4760a5bb245d327b5369
+run_name: secretive-panda-117
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1778291523155
+status: 3
+tags: []
+user_id: hamidrezamatiny

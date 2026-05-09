@@ -1,0 +1,14 @@
+artifact_uri: file:///Users/hamidrezamatiny/Documents/GitHub/Object_Detection/backend/mlruns/982217328213108155/f8cc2925920440f8b1c278ec0dc38646/artifacts
+end_time: 1778291633971
+entry_point_name: ''
+experiment_id: '982217328213108155'
+lifecycle_stage: active
+run_id: f8cc2925920440f8b1c278ec0dc38646
+run_name: ambitious-cat-352
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1778291633966
+status: 3
+tags: []
+user_id: hamidrezamatiny

@@ -1,0 +1,14 @@
+artifact_uri: file:///Users/hamidrezamatiny/Documents/GitHub/Object_Detection/backend/mlruns/982217328213108155/5b60036105ec405b9a17db737f54e58b/artifacts
+end_time: 1778291492355
+entry_point_name: ''
+experiment_id: '982217328213108155'
+lifecycle_stage: active
+run_id: 5b60036105ec405b9a17db737f54e58b
+run_name: bustling-shad-910
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1778291492346
+status: 3
+tags: []
+user_id: hamidrezamatiny

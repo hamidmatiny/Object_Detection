@@ -1,0 +1,10 @@
+artifact_location: file:///Users/hamidrezamatiny/Documents/GitHub/Object_Detection/backend/mlruns/982217328213108155/models/m-7a3ff0860f8e477a8162aff151080e2d/artifacts
+creation_timestamp: 1778290997461
+experiment_id: '982217328213108155'
+last_updated_timestamp: 1778290997478
+model_id: m-7a3ff0860f8e477a8162aff151080e2d
+model_type: null
+name: model
+source_run_id: 47a9ca34320d42d3add0767beca6128f
+status: 3
+status_message: null
