@@ -1,0 +1,23 @@
+artifact_path: file:///Users/hamidrezamatiny/Documents/GitHub/Object_Detection/backend/mlruns/847231776315845634/models/m-d3f3eee5c0634924b02ed81b9290c87d/artifacts
+flavors:
+  python_function:
+    config:
+      device: null
+    data: data
+    env:
+      conda: conda.yaml
+      virtualenv: python_env.yaml
+    loader_module: mlflow.pytorch
+    pickle_module_name: mlflow.pytorch.pickle_module
+    python_version: 3.14.2
+  pytorch:
+    code: null
+    model_data: data
+    pytorch_version: 2.11.0
+mlflow_version: 3.12.0
+model_id: m-d3f3eee5c0634924b02ed81b9290c87d
+model_size_bytes: 12919539
+model_uuid: m-d3f3eee5c0634924b02ed81b9290c87d
+prompts: null
+run_id: 801431663c8c44b5bb4158d9b7125595
+utc_time_created: '2026-05-09 01:11:50.228815'

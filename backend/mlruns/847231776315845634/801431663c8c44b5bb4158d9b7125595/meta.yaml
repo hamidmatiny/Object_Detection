@@ -1,0 +1,14 @@
+artifact_uri: file:///Users/hamidrezamatiny/Documents/GitHub/Object_Detection/backend/mlruns/847231776315845634/801431663c8c44b5bb4158d9b7125595/artifacts
+end_time: 1778289112491
+entry_point_name: ''
+experiment_id: '847231776315845634'
+lifecycle_stage: active
+run_id: 801431663c8c44b5bb4158d9b7125595
+run_name: likeable-colt-102
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1778289110204
+status: 3
+tags: []
+user_id: hamidrezamatiny
